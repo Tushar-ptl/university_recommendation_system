@@ -19,7 +19,6 @@ Thumbs.db
 .vscode/
 
 # --- Outputs / Large files (keep source, ignore generated) ---
-/outputs/
 /reports/
 /figures/
 *.html
