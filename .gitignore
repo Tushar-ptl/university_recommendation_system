@@ -1,0 +1,36 @@
+# --- R / RStudio ---
+.Rhistory
+.Rapp.history
+.RData
+.Ruserdata
+.Rproj.user/
+*.Rproj
+
+# renv (if you use it)
+renv/library/
+renv/staging/
+.Rprofile
+
+# --- OS / Editors ---
+.DS_Store
+Thumbs.db
+*.swp
+.idea/
+.vscode/
+
+# --- Outputs / Large files (keep source, ignore generated) ---
+/outputs/
+/reports/
+/figures/
+*.html
+*.docx
+*.mkv
+
+# --- Data (choose what to ignore) ---
+# If you want to keep data out of git, uncomment one of these:
+# *.csv
+# *.tsv
+# data/
+# data/raw/
+# data/interim/
+# data/processed/
